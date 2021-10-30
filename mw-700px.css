@@ -1,0 +1,21 @@
+#intro{
+    margin-top:50px;
+}
+#section2{
+    flex-flow:wrap column;
+    padding:10px;
+}
+.divCard{
+    max-width:100%;
+    margin:0px;
+    margin-bottom:10px;
+}
+#section4{
+    grid-template-columns:100%;
+}
+#extraInfo{
+    grid-template-columns:100%;
+}
+#section1,#section3{
+    padding:30px 40px 60px 40px;
+}
