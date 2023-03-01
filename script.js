@@ -119,7 +119,7 @@ $(function() {
         if (score_counter % 20 == 0) {
             score.text((parseInt(score.text()) + 1).toString());
         }
-        if (score_counter % 1000 == 0) {
+        if (score_counter % 1500 == 0) {
             speed++;
             line_speed++;
         }
